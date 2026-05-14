@@ -1,0 +1,21 @@
+{
+  "name": "oldschoolz",
+  "displayName": "oldschoolz",
+  "description": "Oldschool color theme for C++ (based on Visual Studio Light)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Oldschoolz",
+        "uiTheme": "vs",
+        "path": "./themes/Oldschoolz-color-theme.json"
+      }
+    ]
+  }
+}
